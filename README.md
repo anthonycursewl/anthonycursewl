@@ -33,7 +33,7 @@ it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
 ## Connect with Me
 
 *   📧 [zerpaanthony.wx@breadriuss.com](mailto:anthony.breadriuss.com/about/anthony?ref=abitfun)
-*   🌐 [My personal portfolio and little social media](anx.breadriuss.com/about/anthony?ref=abitfun)
+*   🌐 [My personal portfolio and little social media](https://anx.breadriuss.com/about/anthony?ref=abitfun)
 
 ## Languages and Technologies
 
