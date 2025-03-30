@@ -1,12 +1,51 @@
-- 👋 Hi, I’m @anthonycursewl
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Anthony Cursewl 👋
 
-<!---
-anthonycursewl/anthonycursewl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anthony Cursewl's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonycursewl&layout=compact&langs_count=8)](https://github.com/anthonycursewl/github-readme-stats)
+
+[![Anthony Cursewl's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anthonycursewl&theme=radical)](https://github.com/anthonycursewl/github-readme-streak-stats)
+
+*   🌱 I'm currently learning...
+    *   Hexagonal Architecture.
+    *   Goland.
+    *   Architecture based on micro-services.
+    *   DevOps.
+
+*   🤝🏻 I'm looking for job & collaborate...
+    *   New projects in the web & mobile development.
+    *   Open-source contributions related to data science or web development.
+    *   Projects which includes music engineer.
+
+## About Me
+
+I'm a Full-stack developer with a passion for creating innovative and user-friendly web applications. I've been practicing all these years and I'm always looking for new challenges to improve my skills.
+
+If you're here it's because you might be interested in my portfolio or just want to know more about me. I'm Anthony, I'm 21, I live in Venezuela and I'm a Tech enthusiast. Part of my time I'm programming and studying, and I'm in the last year of Computer Engineering at UPTAIET. In my free time I'm producing music, creating new sounds.
+
+## Featured Projects
+
+*   **[duran-app](https://github.com/anthonycursewl/meat-swt-app)**: A web application for managing a store's purchases and sales. In this case, a focus on a place where meat is sold.
+
+*   **[jandrey-combo-app](https://github.com/anthonycursewl/jandrey-combo-app)**: FORCEGYM App, an application to manage the services of a gym, and to be able to offer users a section where they can see the news and see the packages that the gym offers in itself.
+
+*   **[anx-app](https://github.com/anthonycursewl/anx-app)**: Anx it's my own "Social media"
+it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
+
+*   **[brd-finance-backend](https://github.com/anthonycursewl/brd-finance-backend)**: Backend of the brd-finance-app. Built on Typescript using Nestjs.
+
+## Connect with Me
+
+*   📧 [zerpaanthony.wx@breadriuss.com](mailto:anthony.breadriuss.com/about/anthony?ref=abitfun)
+*   🌐 [My personal portfolio and little social media](anx.breadriuss.com/about/anthony?ref=abitfun)
+
+## Languages and Technologies
+
+*   Kotlin
+*   TypeScript
+*   JavaScript
+*   React
+*   Django
+*   Machine Learning
+*   PostgreSQL
+*   Git 
+*   Python
+  
