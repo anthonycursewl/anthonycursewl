@@ -1,6 +1,6 @@
 # Hi, I'm Anthony Cursewl 👋
 
-[![Anthony Cursewl's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonycursewl&layout=compact&langs_count=8)](https://github.com/anthonycursewl/github-readme-stats) [![Anthony Cursewl's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anthonycursewl&theme=radical)](https://github.com/anthonycursewl/github-readme-streak-stats)
+[![Anthony Cursewl's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonycursewl&layout=compact&langs_count=8)](https://github.com/anthonycursewl/github-readme-stats)   [![Anthony Cursewl's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anthonycursewl&theme=radical)](https://github.com/anthonycursewl/github-readme-streak-stats)
 
 *   🌱 I'm currently learning...
     *   Hexagonal Architecture.
