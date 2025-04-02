@@ -11,7 +11,7 @@
 *   🤝🏻 I'm looking for job & collaborate...
     *   New projects in the web & mobile development.
     *   Open-source contributions related to data science or web development.
-    *   Projects which includes music engineer.
+    *   Projects which includes music.
 
 ## About Me
 
