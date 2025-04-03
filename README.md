@@ -1,4 +1,4 @@
-# Hi, I'm Anthony Cursewl 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=944FED&center=true&width=435&lines=Hi%2C+I'm+Anthony+Cursewl!)](https://git.io/typing-svg)
 
 [![Anthony Cursewl's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonycursewl&layout=compact&langs_count=8)](https://github.com/anthonycursewl/github-readme-stats)   [![Anthony Cursewl's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=anthonycursewl&theme=radical)](https://github.com/anthonycursewl/github-readme-streak-stats)
 
