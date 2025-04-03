@@ -37,13 +37,5 @@ it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
 
 ## Languages and Technologies
 
-*   Kotlin
-*   TypeScript
-*   JavaScript
-*   React
-*   Django
-*   Machine Learning
-*   PostgreSQL
-*   Git 
-*   Python
+[![My Skills](https://skillicons.dev/icons?i=kotlin,ts,js,react,django,postgres,git,python,angular&perline=4)](https://skillicons.dev)
   
