@@ -37,5 +37,5 @@ it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
 
 ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind&perline=10)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind,express&perline=10)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
   
