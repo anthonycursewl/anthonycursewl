@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=944FED&center=false&width=435&lines=Hi%2C+I'm+Anthony+Cursewl!)](https://git.io/typing-svg)
 
-<p align="center">
+<p align="left">
+  <img src="metrics.classic.lines.svg" alt="classic Charts">
+</p>
+<p align="left">
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calender">
 </p>
-<p align="center">
+<p align="left">
   <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart">
-</p>
-<p align="center">
-  <img src="metrics.classic.lines.svg" alt="classic Charts">
 </p>
 
 *   🌱 I'm currently learning...
