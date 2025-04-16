@@ -1,8 +1,29 @@
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+name: Update Metrics
+
+on:
+  schedule:
+    - cron: '30 5,17 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main 
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 
+      - name: Generate Full-year calendar SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+      - name: Commit generated SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Actualizar calendario de métricas (isocalendar)"
+          file_pattern: metrics.plugin.isocalendar.fullyear.svg
