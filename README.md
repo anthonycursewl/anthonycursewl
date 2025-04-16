@@ -4,7 +4,10 @@
   <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calender">
 </p>
 <p align="center">
-  <img src="metrics.plugin.habits.charts.svg" alt="Habits charts">
+  <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart">
+</p>
+<p align="center">
+  <img src="metrics.classic.lines.svg" alt="classic Charts">
 </p>
 
 *   🌱 I'm currently learning...
