@@ -2,21 +2,21 @@ name: Update Metrics
 
 on:
   schedule:
-    - cron: '30 5,17 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
-      - main 
+      - main
 
 jobs:
   generate-metrics:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 
+        uses: actions/checkout@v4
+
       - name: Generate Full-year calendar SVG
         uses: lowlighter/metrics@latest
         with:
@@ -25,8 +25,22 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Commit generated SVG
+          config_timezone: America/Mexico_City 
+
+      - name: Generate Recent Activity Charts SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes 
+          config_timezone: America/Mexico_City
+
+      - name: Commit generated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar calendario de métricas (isocalendar)"
-          file_pattern: metrics.plugin.isocalendar.fullyear.svg
+          commit_message: "Actualizar métricas (isocalendar y habits)"
+          file_pattern: metrics.plugin.isocalendar.fullyear.svg metrics.plugin.habits.charts.svg
+          # file_pattern: *.svg
