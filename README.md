@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=944FED&center=false&width=435&lines=Hi%2C+I'm+Anthony+Cursewl!)](https://git.io/typing-svg)
 
-![Contributions Calender](metrics.plugin.isocalendar.fullyear.svg)
-![Charts](metrics.plugin.habits.charts.svg)
+<p align="center">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calender">
+</p>
+<p align="center">
+  <img src="metrics.plugin.habits.charts.svg" alt="Habits charts">
+</p>
 
 *   🌱 I'm currently learning...
     *   Hexagonal Architecture.
