@@ -25,7 +25,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          config_timezone: America/Mexico_City 
+          config_timezone: America/Mexico_City
 
       - name: Generate Recent Activity Charts SVG
         uses: lowlighter/metrics@latest
@@ -35,12 +35,20 @@ jobs:
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
-          plugin_habits_charts: yes 
+          plugin_habits_charts: yes
           config_timezone: America/Mexico_City
+
+      - name: Generate Classic Metrics SVG (Lines Plugin)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.classic.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories
+          plugin_lines: yes
+          config_timezone: America/Mexico_City 
 
       - name: Commit generated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Actualizar métricas (isocalendar y habits)"
-          file_pattern: metrics.plugin.isocalendar.fullyear.svg metrics.plugin.habits.charts.svg
-          # file_pattern: *.svg
+          commit_message: "Update charts (isocalendar, habits, classic lines)"
+          file_pattern: metrics.plugin.isocalendar.fullyear.svg metrics.plugin.habits.charts.svg metrics.classic.lines.svg
