@@ -1,4 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=944FED&center=false&width=435&lines=Hi%2C+I'm+Anthony+Cursewl!)](https://git.io/typing-svg)
+*   🌱 I'm currently learning...
+    *   Hexagonal Architecture.
+    *   Goland.
+    *   Architecture based on micro-services.
+    *   DevOps.
+
+*   🤝🏻 I'm looking for job & collaborate...
+    *   New projects in the web & mobile development.
+    *   Open-source contributions related to data science or web development.
+    *   Projects which includes music.
 
 <p align="left">
   <img src="metrics.classic.lines.svg" alt="classic Charts">
@@ -10,16 +20,6 @@
   <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart">
 </p>
 
-*   🌱 I'm currently learning...
-    *   Hexagonal Architecture.
-    *   Goland.
-    *   Architecture based on micro-services.
-    *   DevOps.
-
-*   🤝🏻 I'm looking for job & collaborate...
-    *   New projects in the web & mobile development.
-    *   Open-source contributions related to data science or web development.
-    *   Projects which includes music.
 
 ## About Me
 
