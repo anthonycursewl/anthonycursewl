@@ -29,7 +29,7 @@ If you're here it's because you might be interested in my portfolio or just want
 
 ## Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind,express&perline=10)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind,express,go&perline=10)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
 
 ## Featured Projects
 
