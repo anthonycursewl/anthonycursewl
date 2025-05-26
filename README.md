@@ -25,7 +25,7 @@
 
 I'm a Full-stack developer with a passion for creating innovative and user-friendly web applications. I've been practicing all these years and I'm always looking for new challenges to improve my skills.
 
-If you're here it's because you might be interested in my portfolio or just want to know more about me. I'm Anthony, I'm 21, I live in Venezuela and I'm a Tech enthusiast. Part of my time I'm programming and studying, and I'm in the last year of Computer Engineering at UPTAIET. In my free time I'm producing music, creating new sounds.
+If you're here it's because you might be interested in my portfolio or just want to know more about me. I'm Anthony, I'm 22, I live in Venezuela and I'm a Tech enthusiast. Part of my time I'm programming and studying, and I'm in the last year of Computer Engineering at UPTAIET. In my free time I'm producing music, creating new sounds.
 
 ## Languages and Technologies
 
