@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=4000&pause=1000&color=944FED&center=false&width=435&lines=Hi%2C+I'm+Anthony+Cursewl!)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
+
+<sub align="center">
+   <img src='ANTHONY_CURSEWL_BANNER.png' alt='Anthony Cursewl Banner' />
+</sub>
+
 *   🌱 I'm currently learning...
     *   Hexagonal Architecture.
     *   Goland.
