@@ -5,7 +5,8 @@
 
 # Hello, I'm Anthony Cursewl!
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=100 height="auto" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=150 height="auto" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6ZnhvMGd1dmI0aG01eDA1dDFjZGtva2piOHdvZ3RtbHQ3MTdmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" width=150 height="auto" />
 
 *   🌱 I'm currently learning...
     *   Hexagonal Architecture.
