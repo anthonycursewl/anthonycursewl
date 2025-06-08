@@ -3,6 +3,10 @@
    <img src='ANTHONY_CURSEWL_BANNER.png' alt='Anthony Cursewl Banner' />
 </sub>
 
+# Hello, I'm Anthony Cursewl!
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=100 height="auto" />
+
 *   🌱 I'm currently learning...
     *   Hexagonal Architecture.
     *   Goland.
@@ -52,6 +56,6 @@ it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
 *   📧 [zerpaanthony.wx@gmail.com](mailto:zerpaanthony.wx@gmail.com)
 *   🌐 [My personal portfolio and little social media](https://anx.breadriuss.com/about/anthony?ref=abitfun)
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=100 height="auto" />
+
 
   
