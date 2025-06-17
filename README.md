@@ -46,7 +46,7 @@ If you're here it's because you might be interested in my portfolio or just want
 
 *   **[duran-app](https://github.com/anthonycursewl/meat-swt-app)**: A web application for managing a store's purchases and sales. In this case, a focus on a place where meat is sold.
 
-*   **[jandrey-combo-app](https://github.com/anthonycursewl/jandrey-combo-app)**: FORCEGYM App, an application to manage the services of a gym, and to be able to offer users a section where they can see the news and see the packages that the gym offers in itself.
+*   **[anx-streak-app](https://github.com/anthonycursewl/anx-streak-app-v2)**: A simple app to track my progess. More info in the README.
 
 *   **[anx-app](https://github.com/anthonycursewl/anx-app)**: Anx it's my own "Social media"
 it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
