@@ -3,7 +3,7 @@
    <img src='ANTHONY_CURSEWL_BANNER.png' alt='Anthony Cursewl Banner' />
 </sub>
 
-# Hello, I'm Anthony Cursewl! xo
+# Hello, I'm Anthony Cursewl!
 
 <sub style="display: flex; justify-content: center; align-items: center;">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=150 height="auto" />
