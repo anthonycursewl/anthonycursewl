@@ -57,6 +57,7 @@ it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
 
 *   📧 [zerpaanthony.wx@breadriuss.com](mailto:zerpaanthony.wx@breadriuss.com)
 *   📧 [zerpaanthony.wx@gmail.com](mailto:zerpaanthony.wx@gmail.com)
+*   📧 [zerpaanthony.wx@proton.me](mailto:zerpaanthony.wx@proton.me)
 *   📧 [Breadriuss' contact](mailto:hello@breadriuss.com)
 *   🌐 [My personal portfolio and little social media](https://anx.breadriuss.com/about/anthony?ref=abitfun)
 
