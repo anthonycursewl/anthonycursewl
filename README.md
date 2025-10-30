@@ -1,66 +1,85 @@
-
-<sub align="center">
+<div align="center">
    <img src='ANTHONY_CURSEWL_BANNER.png' alt='Anthony Cursewl Banner' />
-</sub>
+</div>
 
-# Hello, I'm Anthony Cursewl!
+<div align="center">
+  <h1>Hello, I'm Anthony Cursewl 👋</h1>
+  <h3>Full-Stack Developer | Computer Engineer | Music Producer</h3>
+  <p>
+    A passionate Full-Stack Developer from Venezuela and a Computer Engineering graduate. I specialize in building innovative, user-centric web and mobile applications. I'm driven by new challenges and I'm always expanding my skillset to create elegant and efficient solutions. When I'm not coding, you'll find me in my studio producing music.
+  </p>
+</div>
 
-<sub style="display: flex; justify-content: center; align-items: center;">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width=150 height="auto" />
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6ZnhvMGd1dmI0aG01eDA1dDFjZGtva2piOHdvZ3RtbHQ3MTdmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" width=150 height="auto" />
-</sub>
+<!-- Personal touch with GIFs -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 8px;">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhpYzB1ZDdpeDIwYWlyaWozaTh5a2VjazV6NTczbzQyZzJ3dTRkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEr125ErzTjEJXLYuc/giphy.gif" width="150" />
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGN6ZnhvMGd1dmI0aG01eDA1dDFjZGtva2piOHdvZ3RtbHQ3MTdmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zUQrlUk7Zo51n57CNC/giphy.gif" width="150" />
+</div>
 
-*   🌱 I'm currently learning...
-    *   Hexagonal Architecture.
-    *   Goland.
-    *   Architecture based on micro-services.
-    *   DevOps.
+---
 
-*   🤝🏻 I'm looking for job & collaborate...
-    *   New projects in the web & mobile development.
-    *   Open-source contributions related to data science or web development.
-    *   Projects which includes music.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🌱 I'm Currently Learning</h3>
+      <ul>
+        <li>Hexagonal Architecture</li>
+        <li>Go (Golang)</li>
+        <li>Microservices Architecture</li>
+        <li>DevOps principles and tools</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤝 I'm Open to Collaborating On</h3>
+      <ul>
+        <li>Innovative web and mobile development projects</li>
+        <li>Open-Source contributions (Web Dev & Data Science)</li>
+        <li>Projects that merge technology and music</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="metrics.classic.lines.svg" alt="classic Charts">
+---
+
+### 💻 My Tech Stack
+<p align="center">
+  <a href="https://anx.breadriuss.com/about/anthony?ref=abitfun">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind,express,go&perline=11" alt="My Skills"/>
+  </a>
 </p>
-<p align="left">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calender">
+
+---
+
+### ✨ Featured Projects
+
+*   **[duran-app](https://github.com/anthonycursewl/meat-swt-app)**: A complete web application to manage purchases, sales, and inventory for a retail meat store.
+
+*   **[anx-streak-app](https://github.com/anthonycursewl/anx-streak-app-v2)**: A personal progress tracking app designed to help build and maintain positive habits.
+
+*   **[anx-app](https://github.com/anthonycursewl/anx-app)**: A personal "social media" platform with a unique purpose. Explore the concept at [anx.breadriuss.com](https://anx.breadriuss.com/login).
+
+*   **[brd-finance-backend](https://github.com/anthonycursewl/brd-finance-backend)**: A robust backend for a finance application, built with NestJS and TypeScript, following scalability best practices.
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="metrics.classic.lines.svg" alt="Classic Charts" />
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calendar" />
+  <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart" />
 </p>
-<p align="left">
-  <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart">
-</p>
 
+---
 
-## About Me
+### 📫 Let's Connect!
 
-I'm a Full-stack developer with a passion for creating innovative and user-friendly web applications. I've been practicing all these years and I'm always looking for new challenges to improve my skills.
-
-If you're here it's because you might be interested in my portfolio or just want to know more about me. I'm Anthony, I'm 22, I live in Venezuela and I'm a Tech enthusiast. Part of my time I'm programming and studying, and I'm in the last year of Computer Engineering at UPTAIET. In my free time I'm producing music, creating new sounds.
-
-## Languages and Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,python,kotlin,java,react,angular,vue,postgres,mongo,git,github,gitlab,nginx,docker,mysql,prisma,nest,spring,vite,tailwind,express,go&perline=10)](https://anx.breadriuss.com/about/anthony?ref=abitfun)
-
-## Featured Projects
-
-*   **[duran-app](https://github.com/anthonycursewl/meat-swt-app)**: A web application for managing a store's purchases and sales. In this case, a focus on a place where meat is sold.
-
-*   **[anx-streak-app](https://github.com/anthonycursewl/anx-streak-app-v2)**: A simple app to track my progess. More info in the README.
-
-*   **[anx-app](https://github.com/anthonycursewl/anx-app)**: Anx it's my own "Social media"
-it will have a simple porpuse. Read more at https://anx.breadriuss.com/login
-
-*   **[brd-finance-backend](https://github.com/anthonycursewl/brd-finance-backend)**: Backend of the brd-finance-app. Built on Typescript using Nestjs.
-
-## Connect with Me
-
-*   📧 [zerpaanthony.wx@breadriuss.com](mailto:zerpaanthony.wx@breadriuss.com)
-*   📧 [zerpaanthony.wx@gmail.com](mailto:zerpaanthony.wx@gmail.com)
-*   📧 [zerpaanthony.wx@proton.me](mailto:zerpaanthony.wx@proton.me)
-*   📧 [Breadriuss' contact](mailto:hello@breadriuss.com)
-*   🌐 [My personal portfolio and little social media](https://anx.breadriuss.com/about/anthony?ref=abitfun)
-
-
-
-  
+<p align="center">
+  <a href="mailto:zerpaanthony.wx@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://anx.breadriuss.com/about/anthony?ref=abitfun">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
