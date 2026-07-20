@@ -19,15 +19,6 @@
 
 ---
 
-### 🚀 Engineering Focus
-
-* **Architecture & Systems:** Specializing in **Hexagonal Architecture**, building robust backend APIs, and designing scalable microservices.
-* **Infrastructure & DevOps:** Experienced in server management, running **Proxmox** environments, and implementing CI/CD best practices for seamless deployments.
-* **Continuous Learning:** Currently deep-diving into **Rust** for systems-level performance and expanding my expertise in **Go (Golang)** for concurrent backend services.
-* **Current Ventures:** Developing SaaS products, including a high-performance software licensing system and exploring fintech solutions to modernize payment infrastructures.
-
----
-
 Technical Arsenal
 
 **Languages & Core**
@@ -72,7 +63,7 @@ Technical Arsenal
 
 ---
 
-### 🏗️ Featured Architecture & Projects
+### Building These
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -80,15 +71,3 @@ Technical Arsenal
 | **SaaS Licensing Authority** | A robust software licensing system utilizing clean architecture to manage cryptographic keys and user access tiers. | `NestJS` `Prisma` `Hexagonal Arch` |
 | **[anx-streak-app](https://github.com/anthonycursewl/anx-streak-app-v2)** | A gamified personal progress and task management application designed for high-efficiency habit building. | `Vue` `Tailwind` `Node.js` |
 | **[duran-app](https://github.com/anthonycursewl/meat-swt-app)** | An end-to-end retail management system handling POS, inventory tracking, and complex sales reporting. | `React` `Express` `PostgreSQL` |
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="metrics.classic.lines.svg" alt="Classic Charts" width="48%" />
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Contributions Calendar" width="48%" />
-</p>
-<p align="center">
-  <img src="metrics.plugin.habits.charts.svg" alt="Habits Chart" width="100%" />
-</p>
