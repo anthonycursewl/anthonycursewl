@@ -17,8 +17,6 @@
   </a>
 </p>
 
-### Building These
+Currently building
 
-**Daily Assistent** *Malet*  
-A modern financial application aimed at streamlining and securing local payment gateways and transactions. 
-`NestJS` `PostgreSQL` `TypeScript` 
+*Malet* [malet](https://github.com/anthonycursewl/malet-app)
