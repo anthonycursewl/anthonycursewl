@@ -19,7 +19,6 @@
 
 ### Building These
 
-| **Fintech Payment System** *Malet* *(In Development)* | A modern financial application aimed at streamlining and securing local payment gateways and transactions. | `NestJS` `PostgreSQL` `TypeScript` |
-| **SaaS Licensing Authority** | A robust software licensing system utilizing clean architecture to manage cryptographic keys and user access tiers. | `NestJS` `Prisma` `Hexagonal Arch` |
-| **[anx-streak-app](https://github.com/anthonycursewl/anx-streak-app-v2)** | A gamified personal progress and task management application designed for high-efficiency habit building. | `Vue` `Tailwind` `Node.js` |
-| **[duran-app](https://github.com/anthonycursewl/meat-swt-app)** | An end-to-end retail management system handling POS, inventory tracking, and complex sales reporting. | `React` `Express` `PostgreSQL` |
+**Daily Assistent** *Malet*  
+A modern financial application aimed at streamlining and securing local payment gateways and transactions. 
+`NestJS` `PostgreSQL` `TypeScript` 
