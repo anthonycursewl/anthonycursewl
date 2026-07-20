@@ -20,6 +20,6 @@
 ### Currently building
 
 * **Malet** | Started as an expenses and incomes tracker. Now will be a personal agent. [See repo](https://github.com/anthonycursewl/malet-app)
-* **Brd Shapify** | Internal tool for image processing API built with Go using Fiber. [See repo](https://github.com/anthonycursewl/brd-tasks-desktop)
+* **Brd Shapify** | Internal tool for image processing API built with Go using Fiber. [See repo](https://github.com/anthonycursewl/brd-shapify)
 * **Taskiti** | Internal multi-platform app to manage our team tasks. [See repo](https://github.com/anthonycursewl/brd-tasks-desktop)
 
